@@ -4,7 +4,7 @@
 
 This repository contains implementations of key algorithms used in digital signal processing (DSP) using the C programming language. I follow a course which covers fundamental and advanced DSP techniques.
 
-## What you will find
+## What you will find in this repository ?
 
 I am able to:
 
